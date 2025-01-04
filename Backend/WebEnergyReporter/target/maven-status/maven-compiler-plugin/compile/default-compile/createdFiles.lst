@@ -1,0 +1,6 @@
+com\reporter\WebEnergyReporter\services\EnergyService.class
+com\reporter\WebEnergyReporter\WebEnergyReporterApplication.class
+com\reporter\WebEnergyReporter\models\Energy.class
+com\reporter\WebEnergyReporter\repositories\EnergyRepository.class
+com\reporter\WebEnergyReporter\DTO\EnergyRequestDTO.class
+com\reporter\WebEnergyReporter\controllers\EnergyController.class
